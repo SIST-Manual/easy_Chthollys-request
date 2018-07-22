@@ -92,7 +92,7 @@ In the second example, (11 + 22 + 33 + 44 + 55) mod 30 = 15
 
 
 ## 答案 / Solutions
-[Writeup](https://github.com/SIST-Manual/easy_Chthollys-request/blob/master/writeup.cpp)
+[Writeup](https://github.com/SIST-Manual/easy_Chthollys-request/blob/master/writeup.md)
 
 [Python](https://github.com/SIST-Manual/easy_Chthollys-request/blob/master/solve.py)
 
