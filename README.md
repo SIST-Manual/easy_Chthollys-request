@@ -63,19 +63,19 @@ Output single integer \— answer to the problem.
 
 ## 样例 / Example
 
-input1
+### input1
 
 2 100
 
-output1
+### output1
 
 33
 
-input2
+### input2
 
 5 30
 
-output2
+### output2
 
 15
 
