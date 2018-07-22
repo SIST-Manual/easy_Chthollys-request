@@ -1,4 +1,8 @@
 # easy_Chthollys-request
+
+## 提交链接 / Submit 
+https://codeforces.com/problemset/problem/897/B
+
 ## 题目描述 / Description
 
 \- Thanks a lot for today.
@@ -57,6 +61,24 @@ Output single integer \— answer to the problem.
 
 输出一个整数 \- 问题的答案.
 
+## 样例 / Example
+
+input1
+
+2 100
+
+output1
+
+33
+
+input2
+
+5 30
+
+output2
+
+15
+
 ## 提示 / Note
 In the first example, the smallest zcy number is 11, and the second smallest zcy number is 22.
 
@@ -68,8 +90,6 @@ In the second example, (11 + 22 + 33 + 44 + 55) mod 30 = 15
 
 在第二个样例里, (11 + 22 + 33 + 44 + 55) mod 30 = 15
 
-## 提交链接 / Submit 
-https://codeforces.com/problemset/problem/897/B
 
 ## 答案 / Solutions
 [Writeup](https://github.com/SIST-Manual/easy_Chthollys-request/blob/master/writeup.cpp)
