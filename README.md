@@ -37,7 +37,7 @@ Chtholly has been thinking about a problem for days:
 
 珂朵莉已经思考一个问题很久了
 
-If a number is palindrome and length of its decimal representation without leading zeros is even, we call it a zcy number. A number is palindrome means when written in decimal representation, it contains no leading zeros and reads the same forwards and backwards. For example 12321 and 1221 are palindromes and 123 and 12451 are not. Moreover, 1221 is zcy number and 12321 is not.
+If a number is [palindrome](https://en.wikipedia.org/wiki/Palindrome) and length of its decimal representation without leading zeros is even, we call it a zcy number. A number is palindrome means when written in decimal representation, it contains no leading zeros and reads the same forwards and backwards. For example 12321 and 1221 are palindromes and 123 and 12451 are not. Moreover, 1221 is zcy number and 12321 is not.
 
 如果一个数是回文并且它没有前导零, 它的长度为偶数, 我们叫这样一个数为一个zcy数。当一个数是回文, 这个数没有前导零并且反着读和它本身一样。例如, 12321和1221是回文, 123和12451不是回文。此外, 1221是zcy数, 12321不是。
 
